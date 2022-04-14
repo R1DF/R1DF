@@ -1,4 +1,10 @@
-### Hi there 👋
+# R1DF
+I'm a teenager situated on this strange place called "Central Asia" who likes to program as both a hobby and as a desired career path. I'm into game development as well.
+I don't think there's anything else to say about me, really. Have fun browsing my profile.
+
+
+
+P.S. Don't try to decipher my nickname. It's pointless.
 
 <!--
 **R1DF/R1DF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
