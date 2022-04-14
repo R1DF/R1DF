@@ -1,6 +1,6 @@
 # R1DF
-I'm a teenager situated on this strange place called "Central Asia" who likes to program as both a hobby and as a desired career path. I'm into game development as well.
-I don't think there's anything else to say about me, really. Have fun browsing my profile.
+I'm a just a guy situated on this strange place called "Central Asia" who likes to program as both a hobby and as a desired career path. I'm into game development as well. I don't think there's anything else to say about me, really. Have fun browsing my profile.
+
 
 
 
