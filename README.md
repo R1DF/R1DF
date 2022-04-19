@@ -1,5 +1,5 @@
 # R1DF
-I'm a just a guy situated on this very strange place called "Kazakhstan" who likes to program as both a hobby and as a desired career path. I also look forward into game development as well. I don't think there's anything else to say about me, really, so have fun browsing my profile.
+I'm a just a guy situated on this very strange place called "Kazakhstan" who likes to program as both a hobby and as a desired career path. I also look forward into game development as well. Have fun browsing my profile.
 
 ## Things I do:
 * I have numerous experience coding in Python. It's my main language. I use PyCharm to code in it.
