@@ -12,7 +12,7 @@ I'm a just a guy situated on this very strange place called "Kazakhstan" who lik
 * I have Discord but I won't accept random friend requests out of the blue.
 * I am a huge fan of the Ace Attorney frachise, and I play lots of other video games as my core passion.
 * I like both dogs and cats - dogs a bit more, though.
-* 
+
 **I'm currently not open for any collaborations.**<br>
 P.S. Don't try to decipher my nickname. It's pointless.
 
